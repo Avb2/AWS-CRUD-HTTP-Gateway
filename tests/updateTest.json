@@ -1,0 +1,4 @@
+{
+  "pathParameters": {"id": "aea70465-b7ee-4775-a7a9-209d281587a6"},
+  "body": "{\"taskName\":\"newName\"}"
+}
